@@ -17,5 +17,5 @@ Predict a person's body weight based on height, age, and gender using linear reg
 
 ---
 
-**Submitted by:** Prachi Singh
+**Submitted by:** Thanuhya Manne
 **Course:** ML  Assignment  
